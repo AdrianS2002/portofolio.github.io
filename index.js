@@ -47,10 +47,28 @@ document.addEventListener('DOMContentLoaded', async function () {
             projectDiv.appendChild(techHeader);     // Technologies header
             projectDiv.appendChild(techList);       // Technologies list
 
+           
             // Append project div to the container
             projectsContainer.appendChild(projectDiv);
             
-        });
+        }
+        
+    )
+    const viewAll = document.createElement('a');
+    viewAll.href = "https://github.com/AdrianS2002?tab=repositories"; // Your GitHub repositories URL
+    viewAll.textContent = "View All Projects";
+    
+    // Style the link
+    viewAll.style.color = '#3a3a75';
+    viewAll.style.textAlign = 'center';
+    viewAll.style.display = 'block';
+    viewAll.style.marginTop = '2rem';
+    viewAll.style.fontSize = '1.5rem';
+    viewAll.style.fontWeight = 'bold';
+
+    // Append the "View All" link at the end of the projects container
+    projectsContainer.appendChild(viewAll);
+    
     } catch (error) {
         console.error('Error loading project data:', error);
     }
