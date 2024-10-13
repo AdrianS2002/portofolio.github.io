@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Currency Converter",
+        "urlSite": "https://adrians2002.github.io/CurrencyConvertor.github.io/",
+        "url": "https://github.com/AdrianS2002/CurrencyConvertor.github.io",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
+        "name": "Calculate my tip",
+        "url": "https://github.com/AdrianS2002/What-s-my-tips--JS-APP.github.io",
+        "urlSite": "https://adrians2002.github.io/What-s-my-tips--JS-APP.github.io/",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
+        "name": "Hamburger Menu",
+        "url": "https://github.com/AdrianS2002/HamburgerMenu.github.io",
+        "urlSite": "https://adrians2002.github.io/HamburgerMenu.github.io/",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
+        "name": "Back to top button",
+        "url": "https://github.com/AdrianS2002/backtotop.github.io",
+        "urlSite": "https://adrians2002.github.io/backtotop.github.io/",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    
+    {
+        "name": "Coming soon page",
+        "url": "https://github.com/AdrianS2002/comingsoon.github.io",
+        "urlSite":"https://adrians2002.github.io/comingsoon.github.io/",
+        "technologies": ["HTML", "CSS"]
+    },
+
+    {
+        "name": "Online Library",
+        "url": "https://github.com/AdrianS2002/BookStore",
+        "technologies": ["Java", "MySQL"]
+    },
+    {
+        "name": "Fitness Store",
+        "url": "https://github.com/AdrianS2002/FitnessStoreReactApp",
+        "technologies": ["Java", "Spring", "React", "JavaScript", "CSS", "HTML", "MySQL"]
+    },
+    {
+        "name": "Server Request",
+        "url": "https://github.com/AdrianS2002/StoreManagementDB",
+        "technologies": ["Swift"]
+    },
+    {
+        "name": "Gym Presentation Website",
+        "url": "https://github.com/AdrianS2002/TechTreck",
+        "technologies": ["HTML", "CSS"]
+    }
+]
