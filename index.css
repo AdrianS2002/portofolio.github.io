@@ -30,6 +30,24 @@ aside {
 }
 
 
+aside > a{
+    text-align: center;
+    margin: auto;
+    padding: 0,0,0,0;
+}
+aside > a button {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #6b6bbf; 
+    color: white; 
+    font-weight: bold;
+    border: none;
+}
+
+aside > a button:hover {
+    cursor: pointer;
+}
+
 footer {
     margin-top: auto;
     display: flex;
